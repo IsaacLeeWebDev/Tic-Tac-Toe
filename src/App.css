@@ -7,10 +7,14 @@ body {
 .App {
   display: grid;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 50px;
   height: 300px;
 }
 
+.row {
+  margin-top: 110px;
+  width: 100%;
+}
 
 .box {
   padding: 50px;
