@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+  font-size: 40px;
+  color: #fff;
+}
+
+.App {
+  display: grid;
+  text-align: center;
+  margin-top: 200px;
+  height: 300px;
+}
+
+
+.box {
+  padding: 50px;
+  border: 5px solid #fff;
+  background-color: #f00;
+}
+
+#currentTurn {
+  margin-top: 50px;
+}
